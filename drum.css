@@ -1,0 +1,46 @@
+.w {
+  background-image: url("img/tom1.png");
+  margin: 10px;
+  color: red;
+  border: 200%;
+  border-color:yellow;
+}
+.a{
+  background-image: url("img/tom2.png");
+    margin: 10px;
+      color: darkblue;
+        border-color:yellow;
+}
+.s{
+  background-image: url("img/tom3.png");
+    margin: 10px;
+  color: red;
+    border-color:yellow;
+}
+.d{
+  background-image: url("img/tom4.png");
+    margin: 10px;
+      color: darkblue;
+        border-color:yellow;
+}
+.j{
+  background-image: url("img/snare.png");
+    margin: 10px;
+color: red;
+  border-color:yellow;
+}
+.k{
+  background-image: url("img/kick.png");
+    margin: 10px;
+      color: darkblue;
+        border-color:yellow;
+}
+.l{
+  background-image: url("img/crash.png");
+    margin: 10px;
+    color: red;
+      border-color:yellow;
+}
+.pressed{
+  opacity: 0.3;
+}
